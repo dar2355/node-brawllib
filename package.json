@@ -1,8 +1,9 @@
 {
   "name": "node-brawllib",
   "version": "1.0.0",
-  "description": "---",
-  "main": "index.js",
+  "description": "Brawllib tsified",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -18,8 +19,8 @@
     "type": "git",
     "url": "git+https://github.com/dar2355/node-brawllib.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Brawl", "Smashbros", "Parser", "Typescript"],
+  "author": "Dominick Reba",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dar2355/node-brawllib/issues"
